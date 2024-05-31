@@ -1,0 +1,7 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:org.example////PointingToDeclaration/dokka-sample-opt-ins/org.example/index.html
+$dokka.location:org.example//experimentalFunction/#/PointingToDeclaration/dokka-sample-opt-ins/org.example/experimental-function.html
+$dokka.location:org.example/ExperimentalApi///PointingToDeclaration/dokka-sample-opt-ins/org.example/-experimental-api/index.html
+org.example
+
